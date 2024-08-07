@@ -1,0 +1,17 @@
+/* styles.css */
+.opacity-custom {
+    opacity: 0.1; /* Custom opacity value */
+  }
+  
+  .border-t {
+    border-top-width: 1px; /* Top border width */
+  }
+  
+  .border-solid {
+    border-style: solid; /* Border style */
+  }
+  
+  .border-white {
+    border-color: #FFFFFF; /* Border color */
+  }
+  
